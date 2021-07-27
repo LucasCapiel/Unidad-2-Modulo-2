@@ -9,12 +9,21 @@ margin-left: 33%;}
 .Caja1 {background-color: red;
 width: 100px;
 height: 100px;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 
 .Caja2 {background-color: blue;
 width: 100px;
-height: 100px;}
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: center;}
 
 .Caja3 {background-color: green;
 width: 100px;
-height: 100px;}
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: center;}
