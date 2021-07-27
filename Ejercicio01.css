@@ -1,0 +1,19 @@
+.contenedor {background-color: grey;
+width: 500px;
+height: 300px;
+margin-left: 33%;
+display: flex;
+flex-direction: column;
+align-items: flex-end;}
+
+.Caja1 {background-color: red;
+width: 100px;
+height: 100px;}
+
+.Caja2 {background-color: blue;
+width: 100px;
+height: 100px;}
+
+.Caja3 {background-color: green;
+width: 100px;
+height: 100px;}
